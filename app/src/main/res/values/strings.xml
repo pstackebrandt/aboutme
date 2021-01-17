@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Peter Stackebrandt</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Als Gott (je nach Zusammenhang auch Göttin) oder Gottheit wird meist ein übernatürliches Wesen bezeichnet, das über eine große und nicht naturwissenschaftlich beschreibbare transzendente Macht verfügt.
+        Im Verständnis von Mythologien, Religionen und Glaubensüberzeugungen werden einem Gott oder mehreren Göttern besondere Verehrung zuteil und besondere Eigenschaften zugeschrieben, darunter oft die Eigenschaft, erster Ursprung, Schöpfer oder Gestalter der Wirklichkeit zu sein.
+        Auch Vorstellungen einer nicht wesenhaften, unpersönlichen „göttlichen Kraft“ werden bisweilen – aus fehlendem Verständnis für fremde Religionen oder aus Vereinfachungsgründen – als Gott bezeichnet.</string>
 </resources>
