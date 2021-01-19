@@ -7,4 +7,7 @@
         Auch Vorstellungen einer nicht wesenhaften, unpersönlichen „göttlichen Kraft“ werden bisweilen – aus fehlendem Verständnis für fremde Religionen oder aus Vereinfachungsgründen – als Gott bezeichnet.</string>
     <string name="bio_image_description">decorating picture</string>
     <string name="decorative_robot_image">decorative robot image</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="nickname_fillHint">nickname</string>
 </resources>
